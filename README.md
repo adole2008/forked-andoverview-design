@@ -5,7 +5,7 @@ for the backend im using node.js + express, obv all of this u can ignore because
 
 and yes i imported hundreds of real articles cause why not
 
-u can also ignore the article editing system i set up, that can't work in wordpress
+u can also ignore the article editing system + article image placement system i set up, that can't work in wordpress
 ## features
 *   so basically it looks hella nice if i may say so myself
 *   making an account and creating posts etc is fully functional
