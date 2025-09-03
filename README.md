@@ -51,7 +51,7 @@ u can also ignore the article editing system i set up, that can't work in wordpr
     > andoverview-dynamic@1.0.0 start
     > node backend/server.js
     
-    Server is running... on port 3000
+    Server is running and listening on port 3000
     Database initialized successfully.
     ```
 5.  **look at it!** open your browser and go to `http://localhost:3000`. if it works, aMaZiNg. if not, figure it out. ask chat or smth idk
