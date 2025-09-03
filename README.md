@@ -24,8 +24,7 @@ u can also ignore the article editing system i set up, that can't work in wordpr
 
 1.  **get the code.** download the zip, use git, i don't care just get it on your computer
     ```sh
-    git clone https://whateveryourlinkis.com/andoverview.git
-    cd andoverview
+    git clone https://github.com/tnkrueckergreen/CUSTOM-ANDOVERVIEW-DESIGN-PROTOTYPE.git
     ```
 
 2.  **run this command.** this will download like half the internet into a folder called `node_modules`
