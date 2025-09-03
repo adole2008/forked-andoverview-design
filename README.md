@@ -56,7 +56,7 @@ u can also ignore the article editing system i set up, that can't work in wordpr
     ```
 5.  **look at it!** open your browser and go to `http://localhost:3000`. if it works, aMaZiNg. if not, figure it out. ask chat or smth idk
 
-also i realize the code is hundreds of files but its better than a few monolithic files. im following best modular coding practices 🤓 and its easier to see what's going on (somewhat)
+also i realize the code is hundreds of files but its better than a few monolithic files. im following best modular coding practices ☝️🤓 and its easier to see what's going on (somewhat)
 
 credit to chat for helping me with lots of js code and logic and backend and css etc but good god it cant design for shit u wasted my time chat but thank u anyway
 also credit to inspect element for helping me ~~steal~~ borrow css code etc from expensive website templates
