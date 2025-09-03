@@ -35,9 +35,9 @@ u can also ignore the article editing system i set up, that can't work in wordpr
     ```
     npm WARN deprecated something@1.0.0: some warning message
     
-    added 157 packages, and audited 158 packages in 15s
+    added 214 packages, and audited 215 packages in 5s
     
-    12 packages are looking for funding
+    25 packages are looking for funding
       run `npm fund` for details
     
     found 0 vulnerabilities
@@ -51,8 +51,8 @@ u can also ignore the article editing system i set up, that can't work in wordpr
     > andoverview-dynamic@1.0.0 start
     > node backend/server.js
     
-    Database initialized successfully
     Server is running... on port 3000
+    Database initialized successfully.
     ```
 5.  **look at it!** open your browser and go to `http://localhost:3000`. if it works, aMaZiNg. if not, figure it out. ask chat or smth idk
 
